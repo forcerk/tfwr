@@ -1,0 +1,1 @@
+# Code to scan the grid and provide max_x and max_y
